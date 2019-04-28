@@ -1,0 +1,18 @@
+module centralRepo{
+	module interfaces{
+	
+		interface ServerDetail{
+			string getHostname();
+			string getStubName();
+			long getPortNumber();
+		};
+		
+		interface Repository{
+			const string HOSTNAME = "localhost";
+			const long PORT = 2000;
+			const string STUBNAME = "Repository";
+			boolean registerLibraryServer(in string library, in string hostname, in long port, in string stubName);
+			ServerDetail getServerDetails(in string libId);
+		};
+	};
+};

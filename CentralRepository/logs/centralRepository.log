@@ -1,0 +1,987 @@
+[DEBUG] 2019-03-03 05:36:15.608 [main] CentralRepositoryMain - Inside main() method.
+[ERROR] 2019-03-03 05:36:16.799 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-03 05:37:12.634 [main] CentralRepositoryMain - Inside main() method.
+[ERROR] 2019-03-03 05:37:13.747 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-03 05:38:04.688 [main] CentralRepositoryMain - Inside main() method.
+[ERROR] 2019-03-03 05:38:05.803 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-03 05:39:10.298 [main] CentralRepositoryMain - Inside main() method.
+[ERROR] 2019-03-03 05:39:11.579 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-03 05:41:09.259 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-03 05:41:09.620 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-03 05:41:37.362 [main] CentralRepositoryMain - Inside main() method.
+[ERROR] 2019-03-03 05:41:38.591 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-03 05:42:07.965 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-03 05:42:08.237 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-03 05:43:21.819 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-03 05:43:21.830 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-03 10:14:12.069 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-03 10:14:12.631 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-03 10:14:32.241 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-03 10:14:32.246 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-04 10:32:43.133 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-04 10:32:43.574 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-04 10:56:13.378 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-04 10:56:13.670 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-04 23:42:41.540 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-04 23:42:41.830 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-04 23:51:33.902 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-04 23:51:33.907 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-04 23:54:53.780 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-04 23:54:53.784 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-04 23:55:31.436 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-04 23:55:31.760 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-04 23:55:38.148 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-04 23:55:38.152 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-04 23:58:30.196 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-04 23:59:05.455 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-04 23:59:22.298 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 00:06:42.653 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-05 00:06:43.255 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-05 00:17:05.568 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-05 00:17:05.584 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-05 00:17:06.923 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-05 00:17:17.860 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 00:17:17.864 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 00:17:39.462 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 00:17:46.318 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 00:18:31.203 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 01:12:13.662 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-05 01:12:13.676 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-05 01:12:14.991 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-05 01:12:26.233 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 01:12:26.234 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-05 01:12:26.237 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 01:12:26.237 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-05 01:12:40.913 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 01:12:40.914 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-05 01:12:40.917 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 01:12:40.917 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-05 01:15:42.176 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 01:15:42.176 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 01:15:52.345 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 01:15:52.346 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 01:16:47.070 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 01:16:47.070 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 01:17:47.078 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 01:17:47.079 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 01:18:00.378 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 01:18:00.378 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 01:18:34.425 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 01:18:34.425 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 01:19:49.923 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 01:19:49.923 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:11:54.784 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-05 02:11:54.798 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-05 02:11:56.097 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-05 02:12:07.719 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 02:12:07.719 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-05 02:12:07.723 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 02:12:07.724 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-05 02:12:39.435 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:12:39.435 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-05 02:44:31.317 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-05 02:44:31.331 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-05 02:44:32.693 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-05 02:44:53.390 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 02:44:53.391 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-05 02:44:53.395 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-05 02:44:53.396 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-05 02:45:29.162 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:45:29.163 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:45:35.540 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:45:35.541 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:45:43.614 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:45:43.614 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:46:14.008 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:46:14.009 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:46:21.126 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:46:21.126 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:46:31.456 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:46:31.457 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:46:35.584 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:46:35.584 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:46:40.496 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:46:40.497 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:46:44.428 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:46:44.428 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:46:51.424 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:46:51.424 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:46:55.796 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:46:55.797 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:47:08.092 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:47:08.092 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-05 02:47:12.160 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-05 02:47:12.161 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:25:15.684 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 14:25:15.805 [main] CentralRepositoryMain - Starting ORB demon.
+[ERROR] 2019-03-08 14:25:17.453 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-08 14:27:30.921 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 14:27:30.927 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-08 14:27:32.456 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-08 14:27:47.504 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:27:47.505 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 14:27:47.510 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:27:47.510 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 14:27:52.410 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:27:52.410 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 14:27:52.413 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:27:52.413 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 14:27:57.701 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:27:57.702 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 14:27:57.706 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:27:57.706 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 14:29:42.385 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:29:42.385 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:29:47.173 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:29:47.174 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:29:47.357 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:29:47.358 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:29:47.567 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:29:47.567 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:29:47.806 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:29:47.808 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:29:47.949 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:29:47.949 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:29:54.805 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:29:54.806 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:30:09.541 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:30:09.542 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:42:02.134 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 14:42:02.154 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-08 14:42:02.478 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-08 14:42:11.339 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:42:11.339 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 14:42:11.339 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:42:11.339 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 14:42:14.828 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:42:14.828 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 14:42:14.828 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:42:14.828 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 14:42:18.165 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:42:18.165 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 14:42:18.165 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:42:18.165 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 14:42:39.583 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:42:39.583 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:42:48.017 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:42:48.017 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:42:48.068 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:42:48.068 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 14:42:59.633 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:42:59.634 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:42:59.674 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:42:59.674 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 14:43:10.385 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:43:10.386 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:43:11.565 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:43:11.566 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:43:12.715 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:43:12.715 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:43:13.970 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:43:13.970 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:43:15.163 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:43:15.164 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:43:33.700 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:43:33.701 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:47:55.542 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:47:55.543 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:48:47.710 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:48:47.710 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 14:48:47.713 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:48:47.714 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 14:48:53.347 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:48:53.347 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 14:48:53.351 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:48:53.352 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 14:48:57.059 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:48:57.059 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 14:48:57.062 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:48:57.062 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 14:49:08.436 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:49:08.436 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:51:05.682 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 14:51:05.699 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-08 14:51:07.097 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-08 14:51:15.359 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:51:15.360 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 14:51:15.363 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:51:15.364 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 14:51:21.396 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:51:21.396 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 14:51:21.399 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:51:21.400 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 14:51:24.248 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:51:24.248 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 14:51:24.251 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 14:51:24.252 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 14:51:54.843 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:51:54.843 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:51:56.008 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:51:56.008 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:51:56.974 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:51:57.043 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:51:59.856 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:51:59.856 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:52:08.975 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:52:08.976 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:52:09.051 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:52:09.052 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 14:52:10.904 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:52:10.905 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:52:10.941 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:52:10.941 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 14:52:17.731 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:52:17.731 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:52:17.783 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:52:17.783 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 14:52:19.926 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:52:19.927 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 14:52:34.081 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:52:34.082 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:54:02.768 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:02.769 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:54:03.791 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:03.791 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:54:08.691 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:08.692 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:54:09.566 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:09.566 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:54:10.361 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:10.361 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:54:11.101 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:11.101 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:54:12.462 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:12.463 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:54:14.509 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:14.510 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 14:54:20.756 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:20.756 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 14:54:26.312 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:26.313 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 14:54:28.513 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:28.513 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 14:54:50.422 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 14:54:50.422 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:24:43.360 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 20:24:43.472 [main] CentralRepositoryMain - Starting ORB demon.
+[ERROR] 2019-03-08 20:24:45.290 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-08 20:25:22.017 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 20:25:22.031 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-08 20:25:23.491 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-08 20:25:37.809 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:25:37.811 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 20:25:37.826 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:25:37.865 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 20:25:43.134 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:25:43.135 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 20:25:43.148 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:25:43.148 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 20:25:50.444 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:25:50.444 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 20:25:50.449 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:25:50.449 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 20:26:14.288 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 20:26:14.302 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-08 20:26:15.671 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-08 20:26:22.469 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:26:22.469 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 20:26:22.473 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:26:22.473 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 20:26:25.460 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:26:25.460 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 20:26:25.464 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:26:25.464 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 20:26:28.642 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:26:28.642 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 20:26:28.646 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:26:28.646 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 20:28:13.179 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:28:13.179 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:28:26.237 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:28:26.238 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:28:37.281 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:28:37.281 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:28:37.334 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:28:37.334 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 20:28:40.536 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:28:40.536 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:28:40.581 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:28:40.581 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 20:29:03.243 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:03.243 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:29:03.282 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:03.282 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCGUDP
+[DEBUG] 2019-03-08 20:29:03.337 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:03.337 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 20:29:23.816 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:23.817 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:29:23.853 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:23.853 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 20:29:25.120 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:25.121 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:29:25.158 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:25.158 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 20:29:30.464 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:30.465 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:29:32.245 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:32.245 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:29:34.014 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:34.015 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:29:59.848 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:29:59.849 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:30:06.919 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:30:06.920 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:30:49.809 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:30:49.810 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:31:03.085 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:31:03.085 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:31:19.349 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:31:19.350 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:31:25.508 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:31:25.509 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:31:29.509 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:31:29.512 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:31:39.660 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:31:39.661 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:31:43.502 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:31:43.504 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:33:16.135 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:16.136 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:33:17.097 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:17.098 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:33:17.909 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:17.910 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:33:18.630 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:18.631 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:33:19.563 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:19.564 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:33:20.580 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:20.581 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:33:28.538 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:28.539 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:33:28.611 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:28.611 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:33:30.295 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:30.296 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:33:40.137 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:40.137 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:33:40.163 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:40.163 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:33:45.847 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:33:45.847 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:34:01.574 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:34:01.574 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:34:01.625 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:34:01.625 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:34:03.248 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:34:03.249 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:34:15.264 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:34:15.264 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:36:08.516 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:36:08.517 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:37:53.404 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:37:53.405 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:38:01.436 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:38:01.437 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:41:54.194 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:41:54.194 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 20:41:54.197 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:41:54.197 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 20:41:56.442 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:41:56.442 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 20:41:56.447 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:41:56.447 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 20:41:59.104 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:41:59.105 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 20:41:59.109 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:41:59.109 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 20:42:04.645 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:04.646 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:42:18.064 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:18.065 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:42:19.462 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:19.462 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:42:20.592 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:20.592 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:42:21.739 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:21.740 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:42:22.814 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:22.815 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:42:25.734 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:25.735 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:42:34.379 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:34.380 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:42:34.433 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:34.433 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:42:35.642 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:35.642 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:42:37.239 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:37.240 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:42:37.279 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:37.279 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:42:38.702 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:38.702 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:42:43.083 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:43.083 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:42:43.149 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:43.149 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:42:44.568 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:44.569 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:42:53.063 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:53.064 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:42:53.099 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:42:53.100 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:43:21.205 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:43:21.206 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:44:57.689 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:44:57.690 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:46:42.815 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:46:42.815 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:48:31.857 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:48:31.857 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 20:48:31.860 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:48:31.861 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 20:48:34.779 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:48:34.779 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 20:48:34.784 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:48:34.784 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 20:48:39.374 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:48:39.374 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 20:48:39.381 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:48:39.381 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 20:48:47.525 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:47.526 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:48:48.328 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:48.329 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:48:48.923 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:48.924 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:48:49.380 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:49.381 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:48:49.930 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:49.930 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:48:50.558 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:50.559 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:48:56.636 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:56.637 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:48:56.693 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:56.694 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:48:58.172 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:58.173 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:48:59.388 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:59.388 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:48:59.430 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:48:59.431 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:49:00.858 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:49:00.859 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:49:06.220 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:49:06.220 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:49:06.265 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:49:06.265 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:49:07.534 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:49:07.534 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:49:21.786 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:49:21.787 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:49:35.949 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:49:35.950 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:49:47.514 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:49:47.514 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:52:11.299 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:52:11.299 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 20:52:11.302 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:52:11.303 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 20:52:14.802 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:52:14.803 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 20:52:14.806 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:52:14.806 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 20:52:17.614 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:52:17.615 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 20:52:17.619 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:52:17.620 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 20:52:25.865 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:25.865 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:52:26.651 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:26.652 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:52:27.390 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:27.390 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:52:28.098 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:28.098 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:52:28.768 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:28.769 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:52:29.416 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:29.417 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:52:36.597 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:36.598 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:52:36.666 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:36.666 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:52:38.057 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:38.058 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:52:39.037 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:39.038 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:52:39.072 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:39.072 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:52:40.099 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:40.099 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:52:44.609 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:44.609 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:52:44.660 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:44.660 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:52:45.685 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:45.686 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:52:52.419 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:52:52.420 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:53:01.397 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:53:01.398 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:53:16.047 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:53:16.048 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:57:49.712 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:57:49.712 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 20:57:49.715 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:57:49.716 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 20:57:51.645 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:57:51.645 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 20:57:51.647 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:57:51.647 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 20:57:53.980 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:57:53.981 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 20:57:53.988 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:57:53.988 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 20:58:01.807 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:01.807 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:58:02.106 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:02.106 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:58:02.408 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:02.408 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:58:02.677 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:02.677 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:58:05.294 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:05.294 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:58:06.198 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:06.198 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:58:13.226 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:13.226 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:58:13.277 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:13.278 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:58:14.620 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:14.620 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:58:15.980 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:15.980 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 20:58:16.014 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:16.014 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:58:17.397 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:17.397 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:58:22.960 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:22.960 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 20:58:23.004 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:23.004 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:58:24.407 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:24.407 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 20:58:31.956 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:31.956 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:58:46.562 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:58:46.563 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:59:02.610 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 20:59:02.611 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 20:59:34.622 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:59:34.622 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 20:59:34.625 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 20:59:34.626 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 21:00:27.895 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 21:00:27.902 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-08 21:00:28.203 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-08 21:00:40.474 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:00:40.475 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 21:00:40.480 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:00:40.480 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 21:00:43.611 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:00:43.612 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 21:00:43.616 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:00:43.616 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 21:00:47.010 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:00:47.010 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 21:00:47.021 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:00:47.021 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 21:00:54.564 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:00:54.565 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:00:55.227 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:00:55.227 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:00:55.550 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:00:55.550 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:00:55.857 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:00:55.858 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:00:56.448 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:00:56.449 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:00:56.781 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:00:56.782 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:01:02.421 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:02.421 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:01:02.476 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:02.476 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:01:03.838 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:03.840 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:01:05.196 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:05.197 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:01:05.229 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:05.229 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:01:06.462 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:06.463 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:01:11.333 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:11.334 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCG
+[DEBUG] 2019-03-08 21:01:11.381 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:11.381 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:01:12.756 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:12.756 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:01:20.769 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:20.769 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:01:42.380 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:42.380 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:01:50.465 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:01:50.465 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:02:46.321 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:02:46.322 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:03:04.744 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:03:04.745 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:03:04.785 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:03:04.785 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:05:14.532 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:14.535 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:05:14.560 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:14.561 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:05:36.477 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:36.477 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:05:37.385 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:37.386 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:05:49.841 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:49.841 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:05:49.902 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:49.902 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:05:50.985 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:50.986 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:05:52.270 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:52.271 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:05:52.297 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:52.297 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:05:53.592 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:05:53.592 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:06:01.869 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:06:01.870 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:06:28.377 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:06:28.378 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:13:38.638 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:13:38.638 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 21:13:38.641 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:13:38.641 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 21:13:41.172 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:13:41.172 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 21:13:41.175 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:13:41.175 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 21:13:45.539 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:13:45.539 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 21:13:45.542 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:13:45.542 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 21:14:05.195 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:05.195 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:14:05.965 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:05.966 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:14:06.533 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:06.534 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:14:06.731 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:06.731 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:14:06.904 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:06.904 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:14:07.080 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:07.080 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:14:13.685 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:13.685 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:14:13.742 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:13.742 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:14:15.320 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:15.320 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:14:16.596 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:16.596 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:14:16.632 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:16.632 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:14:17.885 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:17.885 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:14:36.431 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:36.432 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:14:36.460 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:36.461 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:14:44.609 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:44.609 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:14:58.635 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:14:58.635 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:15:02.940 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:15:02.940 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:15:40.872 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:15:40.873 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:15:56.447 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:15:56.447 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:21:58.673 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:21:58.673 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 21:21:58.677 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:21:58.677 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 21:22:03.543 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:22:03.543 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 21:22:03.545 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:22:03.546 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 21:22:07.585 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:07.586 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:22:08.497 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:08.498 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:22:08.732 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:08.732 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:22:08.983 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:08.983 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:22:09.601 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:09.601 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:22:10.179 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:10.180 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:22:18.579 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:18.580 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:22:18.618 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:18.619 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:22:19.914 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:19.914 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:22:21.174 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:21.175 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:22:21.200 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:21.200 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:22:22.445 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:22.445 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:22:28.065 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:28.065 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:22:37.103 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:22:37.103 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:25:21.202 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:25:21.203 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 21:25:21.206 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 21:25:21.206 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 21:25:26.624 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:26.624 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:25:27.459 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:27.460 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:25:28.060 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:28.061 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:25:28.264 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:28.264 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:25:28.468 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:28.469 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:25:29.318 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:29.318 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:25:39.716 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:39.716 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:25:39.742 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:39.742 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:25:41.261 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:41.262 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:25:42.770 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:42.770 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:25:42.816 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:42.816 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:25:43.804 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:43.804 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 21:25:50.078 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:50.078 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:25:56.009 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:25:56.009 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:28:51.402 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:28:51.403 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 21:30:43.708 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:30:43.709 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 21:30:43.744 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 21:30:43.744 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CONUDP
+[DEBUG] 2019-03-08 22:16:12.216 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 22:16:12.333 [main] CentralRepositoryMain - Starting ORB demon.
+[ERROR] 2019-03-08 22:16:14.070 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-08 22:16:33.400 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 22:16:33.413 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-08 22:16:34.729 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-08 22:16:42.548 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:16:42.549 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 22:16:42.556 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:16:42.557 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 22:16:47.243 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:16:47.244 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 22:16:47.260 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:16:47.260 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 22:16:58.290 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:16:58.290 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 22:16:58.295 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:16:58.295 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 22:22:11.469 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-08 22:22:11.483 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-08 22:22:12.796 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-08 22:22:20.888 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:22:20.889 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-08 22:22:20.894 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:22:20.894 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-08 22:22:26.995 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:22:26.996 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-08 22:22:26.999 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:22:26.999 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-08 22:22:30.496 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:22:30.496 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-08 22:22:30.499 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-08 22:22:30.500 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-08 22:24:37.314 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:24:37.314 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 22:32:26.296 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:32:26.296 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 22:36:08.057 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:36:08.058 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:36:09.001 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:36:09.002 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:36:09.817 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:36:09.818 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:36:10.625 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:36:10.626 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:36:11.377 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:36:11.377 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:36:12.092 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:36:12.092 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:36:36.236 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:36:36.236 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 22:36:56.353 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:36:56.353 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:39:07.615 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:39:07.616 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:40:53.592 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:40:53.592 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:41:34.434 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:41:34.435 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 22:41:53.742 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:41:53.743 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 22:42:13.528 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:42:13.530 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 22:42:16.326 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:42:16.326 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:42:20.339 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:42:20.340 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:42:39.720 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:42:39.721 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 22:43:23.597 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:43:23.598 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:43:49.598 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:43:49.599 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:44:18.467 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:44:18.467 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:44:44.722 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:44:44.722 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:44:58.235 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:44:58.235 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 22:48:45.721 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:48:45.721 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 22:49:03.924 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:49:03.925 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:49:37.118 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:49:37.118 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:49:51.314 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:49:51.314 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:50:21.808 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:50:21.809 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:50:39.363 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:50:39.363 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 22:55:34.947 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 22:55:34.948 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 23:02:32.490 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:02:32.490 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:03:46.836 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:03:46.837 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:04:06.209 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:04:06.210 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:04:26.371 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:04:26.372 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:04:47.554 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:04:47.555 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:04:55.801 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:04:55.802 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:10:00.863 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:10:00.863 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 23:10:51.368 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:10:51.369 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:10:58.879 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:10:58.879 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 23:11:12.580 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:11:12.580 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:11:29.564 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:11:29.564 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:13:29.334 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:13:29.334 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:13:43.186 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:13:43.186 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:14:33.079 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:14:33.080 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:14:58.141 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:14:58.142 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:15:25.441 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:15:25.442 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 23:16:57.988 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:16:57.989 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:17:13.354 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:17:13.355 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:17:34.632 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:17:34.632 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:18:41.088 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:18:41.089 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 23:19:21.001 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:19:21.002 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-08 23:19:21.036 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:19:21.037 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-08 23:23:17.713 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:23:17.713 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MON
+[DEBUG] 2019-03-08 23:23:31.562 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-08 23:23:31.563 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-09 09:17:42.583 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-09 09:17:42.599 [main] CentralRepositoryMain - Starting ORB demon.
+[ERROR] 2019-03-09 09:17:43.919 [main] CentralRepositoryMain - 
+[DEBUG] 2019-03-09 09:20:15.030 [main] CentralRepositoryMain - Inside main() method.
+[DEBUG] 2019-03-09 09:20:15.047 [main] CentralRepositoryMain - Starting ORB demon.
+[DEBUG] 2019-03-09 09:20:15.479 [main] CentralRepositoryMain - Central Repository is up.
+[DEBUG] 2019-03-09 09:20:37.600 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-09 09:20:37.601 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CONUDP, hostname=localhost, port=2001, stubName=
+[DEBUG] 2019-03-09 09:20:37.606 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-09 09:20:37.607 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=CON, hostname=localhost, port=0, stubName=ConcordiaLibrary
+[DEBUG] 2019-03-09 09:20:44.790 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-09 09:20:44.791 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MONUDP, hostname=localhost, port=2003, stubName=
+[DEBUG] 2019-03-09 09:20:44.794 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-09 09:20:44.794 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MON, hostname=localhost, port=0, stubName=MontrealLibrary
+[DEBUG] 2019-03-09 09:20:50.309 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-09 09:20:50.310 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCGUDP, hostname=localhost, port=2002, stubName=
+[DEBUG] 2019-03-09 09:20:50.315 [p: default-threadpool; w: Idle] RepositoryImpl - Inside registerLibraryServer() method.
+[DEBUG] 2019-03-09 09:20:50.316 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: library=MCG, hostname=localhost, port=0, stubName=McGillLibrary
+[DEBUG] 2019-03-09 09:21:19.619 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:21:19.620 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-09 09:21:43.884 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:21:43.885 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-09 09:21:43.924 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:21:43.924 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-09 09:21:43.952 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:21:43.953 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-09 09:28:39.423 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:28:39.424 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-09 09:28:54.998 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:28:54.999 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-09 09:28:55.032 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:28:55.032 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-09 09:29:01.649 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:29:01.649 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-09 09:29:01.670 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:29:01.671 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-09 09:29:01.688 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:29:01.688 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-09 09:29:04.212 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:29:04.213 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-09 09:31:35.677 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:31:35.677 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-09 09:31:35.714 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:31:35.714 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-09 09:35:03.385 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:35:03.386 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=CON
+[DEBUG] 2019-03-09 09:35:03.416 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:35:03.417 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
+[DEBUG] 2019-03-09 09:35:03.435 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:35:03.435 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCGUDP
+[DEBUG] 2019-03-09 09:35:03.454 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:35:03.454 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MCGUDP
+[DEBUG] 2019-03-09 09:35:03.469 [p: default-threadpool; w: Idle] RepositoryImpl - Inside getServerDetails() method.
+[DEBUG] 2019-03-09 09:35:03.469 [p: default-threadpool; w: Idle] RepositoryImpl - method param are: libId=MONUDP
