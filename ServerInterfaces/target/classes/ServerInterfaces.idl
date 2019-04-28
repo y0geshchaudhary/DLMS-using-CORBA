@@ -1,0 +1,41 @@
+module server{
+	module interfaces{
+	
+		exception GeneralException{
+			string reason;
+		};
+		enum OperationsEnum { BORROW_ITEM,FIND_ITEM,RETURN_ITEM,ADD_TO_WAITING_LIST,BOOK_BORROWED,BOOK_AVAILABLE};
+		
+		interface Book{
+			string getName();
+			string getId();
+			long getNumberOfCopies();
+	
+			void setName(in string name);
+			void setId(in string id);
+			void setNumberOfCopies(in long numberOfCopies);
+		};
+		
+		typedef sequence<Book> Books;
+		
+		interface LibraryOperations{
+			boolean userExists(in string userId);
+			
+			//Manager operations 
+			boolean addItem(in string managerID, in string itemID, in string itemName, in long quantity) raises(GeneralException);
+			long removeItem (in string managerID, in string itemID, in long quantity) raises(GeneralException);
+			Books listAvailableItems (in string managerID) raises(GeneralException);
+	
+			//Student operations
+			long borrowItem(in string userID, in string itemID, in string numberOfDays) raises(GeneralException);
+			Books findItem (in string userID, in string itemName) raises(GeneralException);
+			boolean returnItem (in string userID, in string itemID) raises(GeneralException);
+			boolean addToWaitingList(in string userID, in string itemID) raises(GeneralException);
+			boolean addToWaitingListOverloaded(in string userID, in string itemID, in string oldItemID) raises(GeneralException);
+			long exchangeItem(in string userID, in string newItemID, in string oldItemID) raises(GeneralException);
+		};
+	};
+};
+
+
+

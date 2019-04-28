@@ -1,0 +1,36 @@
+module server{
+	module interfaces{
+	
+		enum OperationsEnum { BORROW_ITEM,FIND_ITEM,RETURN_ITEM, ADD_TO_WAITING_LIST};
+		
+		interface Book{
+			string getName();
+			string getId();
+			long getNumberOfCopies();
+	
+			void setName(in string name);
+			void setId(in string id);
+			void setNumberOfCopies(in long numberOfCopies);
+		};
+		
+		typedef sequence<Book> Books;
+		
+		interface LibraryOperations{
+			boolean userExists(in string userId);
+			
+			//Manager operations 
+			boolean addItem(in string managerID, in string itemID, in string itemName, in long quantity);
+			long removeItem (in string managerID, in string itemID, in long quantity);
+			Books listAvailableItems (in string managerID);
+	
+			//Student operations
+			long borrowItem(in string userID, in string itemID, in string numberOfDays);
+			Books findItem (in string userID, in string itemName);
+			string returnItem (in string userID, in string itemID);
+			boolean addToWaitingList(in string userID, in string itemID);
+		};
+	};
+};
+
+
+
